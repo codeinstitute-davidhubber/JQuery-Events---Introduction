@@ -9,9 +9,9 @@
 ## Course > JQuery Library - Writing Less JavaScrip > jQuery Introduction
 
 ***
-#### project url: **https://codeinstitute-davidhubber.github.io/JQuery-Events---Introduction/
+#### project url: **https://github.com/codeinstitute-davidhubber/JQuery-Events---Introduction
 ***
-#### index url: ** https://codeinstitute-davidhubber.github.io/JQuery-Events---Introduction//Cards-jquery.html
+#### index url: ** https://codeinstitute-davidhubber.github.io/JQuery-Events---Introduction/Cards-jquery.html
 ***
 
 ## jQuery Events
